@@ -388,24 +388,24 @@ JohtoGrassWildMons:
 	db 5, UNOWN
 	db 5, UNOWN
 	db 5, UNOWN
-	db 5, UNOWN
-	db 5, UNOWN
+	db 7, OMANYTE
+	db 7, KABUTO
 	; day
 	db 5, UNOWN
 	db 5, UNOWN
 	db 5, UNOWN
 	db 5, UNOWN
 	db 5, UNOWN
-	db 5, UNOWN
-	db 5, UNOWN
+	db 6, OMANYTE
+	db 7, OMANYTE
 	; nite
 	db 5, UNOWN
 	db 5, UNOWN
 	db 5, UNOWN
 	db 5, UNOWN
 	db 5, UNOWN
-	db 5, UNOWN
-	db 5, UNOWN
+	db 6, KABUTO
+	db 7, KABUTO
 
 	map_id UNION_CAVE_1F
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
