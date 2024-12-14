@@ -89,9 +89,9 @@ GoldenrodHappinessRatingText_LovesYouALot:
 	done
 
 GoldenrodHappinessRatingText_ReallyTrustsYou:
-	text "I get the feeling"
-	line "that it really"
-	cont "trusts you."
+	text "It looks just"
+	line "about ready"
+	cont "to evolve!"
 	done
 
 GoldenrodHappinessRatingText_SortOfHappy:
