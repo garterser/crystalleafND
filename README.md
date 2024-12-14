@@ -16,8 +16,10 @@ To set up the repository, see [INSTALL.md](INSTALL.md).
 
 This is a fork of Crystalleaf, intended to add some QOL changes and also let you catch all the fossils, the changes are as follows:
 Added the Kanto fossils to the Ruins of Alph Interior, Kabuto at night, Omanyte at day.
+
 Changed the Happiness Raters to be more helpful with gaiging if a pokemon can evolve yet.
 
+You are now allowed to delete HM moves(provided they aren't sketch)
 
 ## See also
 
