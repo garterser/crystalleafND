@@ -21,6 +21,9 @@ Changed the Happiness Raters to be more helpful with gaiging if a pokemon can ev
 
 You are now allowed to delete HM moves(provided they aren't sketch)
 
+TMs are now infinite-use
+
+Do note that this repo(and for refference, the original crystal leaf) needs RGBDS version 0.5.2
 ## See also
 
 - [**FAQ**](FAQ.md)
