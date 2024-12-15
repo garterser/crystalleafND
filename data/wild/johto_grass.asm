@@ -1199,7 +1199,7 @@ JohtoGrassWildMons:
 	db 3, SENTRET
 	db 2, RATTATA
 	db 3, HOPPIP
-	db 3, HOPPIP
+	db 3, BULBASAUR
 	; day
 	db 2, PIDGEY
 	db 2, SENTRET
@@ -1207,7 +1207,7 @@ JohtoGrassWildMons:
 	db 3, SENTRET
 	db 2, RATTATA
 	db 3, HOPPIP
-	db 3, HOPPIP
+	db 3, BULBASAUR
 	; nite
 	db 2, HOOTHOOT
 	db 2, RATTATA
@@ -1215,7 +1215,7 @@ JohtoGrassWildMons:
 	db 3, RATTATA
 	db 2, RATTATA
 	db 3, HOOTHOOT
-	db 3, HOOTHOOT
+	db 3, BULBASAUR
 
 	map_id ROUTE_30
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
@@ -1226,7 +1226,7 @@ JohtoGrassWildMons:
 	db 4, PIDGEY
 	db 3, WEEDLE
 	db 4, HOPPIP
-	db 4, HOPPIP
+	db 4, SQUIRTLE
 	; day
 	db 3, PIDGEY
 	db 3, CATERPIE
@@ -1234,7 +1234,7 @@ JohtoGrassWildMons:
 	db 4, PIDGEY
 	db 3, WEEDLE
 	db 4, HOPPIP
-	db 4, HOPPIP
+	db 4, SQUIRTLE
 	; nite
 	db 3, SPINARAK
 	db 3, HOOTHOOT
@@ -1242,7 +1242,7 @@ JohtoGrassWildMons:
 	db 4, HOOTHOOT
 	db 3, ZUBAT
 	db 4, HOOTHOOT
-	db 4, HOOTHOOT
+	db 4, SQUIRTLE
 
 	map_id ROUTE_31
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
