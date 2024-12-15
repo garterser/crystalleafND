@@ -66,8 +66,6 @@ FollowerScript_Leaf_Switch::
 
 FollowerScript_Leaf_Trade::
 ; can only trade in Pokemon Centers, check the tileset
-	readvar VAR_CUR_TILESET
-	ifnotequal TILESET_POKECENTER, FollowerScript_Leaf_CantTradeLocation
 	writetext Follower_Text_Leaf_LetsTrade
 	waitbutton
 	scall Follower_TradeMons
@@ -91,8 +89,6 @@ FollowerScript_Leaf_CantTradeLocation::
 
 FollowerScript_Red_Trade::
 ; can only trade in Pokemon Centers, check the tileset
-	readvar VAR_CUR_TILESET
-	ifnotequal TILESET_POKECENTER, FollowerScript_Red_CantTradeLocation
 	writetext Follower_Text_Red_LetsTrade
 	waitbutton
 	scall Follower_TradeMons
