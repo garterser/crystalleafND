@@ -23,6 +23,8 @@ You are now allowed to delete HM moves(provided they aren't sketch)
 
 TMs are now infinite-use
 
+You can now Trade on the fly
+
 Do note that this repo(and for refference, the original crystal leaf) needs RGBDS version 0.5.2
 ## See also
 
